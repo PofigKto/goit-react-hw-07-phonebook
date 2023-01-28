@@ -1,0 +1,16 @@
+ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 20vw;
+  }
+  
+  .btn {
+    height: 50%;
+    border-radius: 4px;
+  }
